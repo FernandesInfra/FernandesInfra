@@ -77,7 +77,7 @@
 | Projeto | Descrição | Status / Techs |
 | :--- | :--- | :--- |
 | ⚡ **[Service Desk EsCom](https://github.com/FernandesInfra)** | Implantação de sistema interno de chamados no Exército com **redução de 40% no SLA** de atendimento. | `ITIL` `Ticketing` `SLA` |
-| 🤖 **[ai-log-analyzer]([https://github.com/FernandesInfra](https://github.com/FernandesInfra/ai-log-analyzer)** | Automação Python/Bash que lê logs de rede brutos e usa APIs de LLM para gerar relatórios de diagnóstico imediato. | `Python` `Bash` `LLM API` |
+| 🤖 **[ai-log-analyzer](https://github.com/FernandesInfra/ai-log-analyzer)** | Automação Python/Bash que lê logs de rede brutos e usa APIs de LLM para gerar relatórios de diagnóstico imediato. | `Python` `Bash` `LLM API` |
 | 🖥️ **[active-directory-homelab](https://github.com/FernandesInfra)** | Laboratório completo em VirtualBox com Windows Server 2019, Active Directory, OUs e GPOs de segurança. | `Windows Server` `AD` `GPO` |
 | 🚚 **[LogiTrack](https://github.com/FernandesInfra/logitrack)** | Sistema para controle, gestão e rastreabilidade logística de frotas e transportes. | `Python` `Management` |
 | ⚙️ **[Community-Server-Management](https://github.com/FernandesInfra/Community-Server-Management)** | Scripts de automação para gerenciamento, manutenção e monitoramento de servidores. | `Shell Script` `Linux` |

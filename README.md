@@ -8,7 +8,7 @@
   </p>
 
   <!-- Badges de Contato e Redes -->
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/samuelfernandes-infra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seu-email@gmail.com">
